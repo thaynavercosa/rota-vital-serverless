@@ -189,4 +189,4 @@ Os registros dos testes realizados estão organizados na pasta `evidencias/`.
 
 ## 8. Uso de IA
 
-Foi utilizada a ferramenta ChatGPT como apoio na resolução de erros, interpretação
+Foi utilizada a ferramenta ChatGPT como apoio na resolução de erros, interpretação, suporte com o codigo
